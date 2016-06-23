@@ -1,0 +1,1 @@
+c:\python34\python.exe c:\Python34\scheduler.py %*
